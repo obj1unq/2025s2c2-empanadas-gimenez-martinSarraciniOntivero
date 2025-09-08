@@ -24,6 +24,9 @@ object galvan{
     method dinero(){
         return dinero
     }
+        method nombre(){
+        return "Galvan"
+    }
 }
 
 
@@ -43,6 +46,9 @@ object baigorria {
     }
     method totalCobrado(){
         return sueldoAcumulado
+    }
+    method nombre(){
+        return "Baigorria"
     }
 
 }
